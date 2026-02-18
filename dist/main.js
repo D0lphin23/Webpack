@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Я модуль one"),console.log("Я модуль two")})();
